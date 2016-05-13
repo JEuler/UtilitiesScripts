@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace UtilitiesScripts {
 	class Program {
 		static void Main( string[] args ) {
-
+			Console.Write("HEllo");
 		}
 	}
 }
